@@ -17,8 +17,3 @@ Train/test split: 80/20 with stratified sampling (random_state = 42)
 Values of k evaluated: {1, 3, 5, 7, 9, 11, 15, 21}
 Metrics: accuracy, Cohen's kappa, precision, recall, F1-score, ROC/AUC (one-vs-rest)
 
-# Project Structure
-├── data4.csv            # Preprocessed dataset
-├── knn_prediction.R     # Main analysis script
-├── figures/             # Generated plots
-└── README.md
