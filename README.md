@@ -17,3 +17,12 @@ Train/test split: 80/20 with stratified sampling (random_state = 42)
 Values of k evaluated: {1, 3, 5, 7, 9, 11, 15, 21}
 Metrics: accuracy, Cohen's kappa, precision, recall, F1-score, ROC/AUC (one-vs-rest)
 
+# Requirements
+Python ≥ 3.8
+Packages: scikit-learn, numpy, pandas, matplotlib, seaborn
+
+# Project Structure
+.
+├── data4.csv
+├── Protein Secondary Structure Prediction using the k-NN Algorithm.ipynb
+└── README.md
