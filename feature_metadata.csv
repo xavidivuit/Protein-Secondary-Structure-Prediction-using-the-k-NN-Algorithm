@@ -1,0 +1,121 @@
+feature_id,metabolite_name,class,platform
+M001,Metab_batch_01,Amino acid,LC-MS positive
+M002,Metab_batch_02,Acylcarnitine,LC-MS negative
+M003,Metab_batch_03,Bile acid,GC-MS
+M004,Metab_batch_04,Fatty acid,LC-MS positive
+M005,Metab_batch_05,Lipid,LC-MS negative
+M006,Metab_batch_06,Organic acid,GC-MS
+M007,Metab_batch_07,Sugar,LC-MS positive
+M008,Metab_batch_08,Nucleotide,LC-MS negative
+M009,Metab_batch_09,Amino acid,GC-MS
+M010,Metab_batch_10,Acylcarnitine,LC-MS positive
+M011,Metab_batch_11,Bile acid,LC-MS negative
+M012,Metab_batch_12,Fatty acid,GC-MS
+M013,Metab_batch_13,Lipid,LC-MS positive
+M014,Metab_batch_14,Organic acid,LC-MS negative
+M015,Metab_batch_15,Sugar,GC-MS
+M016,Metab_batch_16,Nucleotide,LC-MS positive
+M017,Metab_batch_17,Amino acid,LC-MS negative
+M018,Metab_batch_18,Acylcarnitine,GC-MS
+M019,Metab_batch_19,Bile acid,LC-MS positive
+M020,Metab_batch_20,Fatty acid,LC-MS negative
+M021,Metab_risk_01,Lipid,GC-MS
+M022,Metab_risk_02,Organic acid,LC-MS positive
+M023,Metab_risk_03,Sugar,LC-MS negative
+M024,Metab_risk_04,Nucleotide,GC-MS
+M025,Metab_risk_05,Amino acid,LC-MS positive
+M026,Metab_risk_06,Acylcarnitine,LC-MS negative
+M027,Metab_risk_07,Bile acid,GC-MS
+M028,Metab_risk_08,Fatty acid,LC-MS positive
+M029,Metab_risk_09,Lipid,LC-MS negative
+M030,Metab_risk_10,Organic acid,GC-MS
+M031,Metab_risk_11,Sugar,LC-MS positive
+M032,Metab_risk_12,Nucleotide,LC-MS negative
+M033,Metab_risk_13,Amino acid,GC-MS
+M034,Metab_risk_14,Acylcarnitine,LC-MS positive
+M035,Metab_risk_15,Bile acid,LC-MS negative
+M036,Metab_risk_16,Fatty acid,GC-MS
+M037,Metab_risk_17,Lipid,LC-MS positive
+M038,Metab_risk_18,Organic acid,LC-MS negative
+M039,Metab_risk_19,Sugar,GC-MS
+M040,Metab_risk_20,Nucleotide,LC-MS positive
+M041,Metab_risk_21,Amino acid,LC-MS negative
+M042,Metab_risk_22,Acylcarnitine,GC-MS
+M043,Metab_risk_23,Bile acid,LC-MS positive
+M044,Metab_risk_24,Fatty acid,LC-MS negative
+M045,Metab_risk_25,Lipid,GC-MS
+M046,Metab_risk_26,Organic acid,LC-MS positive
+M047,Metab_risk_27,Sugar,LC-MS negative
+M048,Metab_risk_28,Nucleotide,GC-MS
+M049,Metab_risk_29,Amino acid,LC-MS positive
+M050,Metab_risk_30,Acylcarnitine,LC-MS negative
+M051,Metab_sex_01,Bile acid,GC-MS
+M052,Metab_sex_02,Fatty acid,LC-MS positive
+M053,Metab_sex_03,Lipid,LC-MS negative
+M054,Metab_sex_04,Organic acid,GC-MS
+M055,Metab_sex_05,Sugar,LC-MS positive
+M056,Metab_sex_06,Nucleotide,LC-MS negative
+M057,Metab_sex_07,Amino acid,GC-MS
+M058,Metab_sex_08,Acylcarnitine,LC-MS positive
+M059,Metab_sex_09,Bile acid,LC-MS negative
+M060,Metab_sex_10,Fatty acid,GC-MS
+M061,Metab_age_01,Lipid,LC-MS positive
+M062,Metab_age_02,Organic acid,LC-MS negative
+M063,Metab_age_03,Sugar,GC-MS
+M064,Metab_age_04,Nucleotide,LC-MS positive
+M065,Metab_age_05,Amino acid,LC-MS negative
+M066,Metab_age_06,Acylcarnitine,GC-MS
+M067,Metab_age_07,Bile acid,LC-MS positive
+M068,Metab_age_08,Fatty acid,LC-MS negative
+M069,Metab_age_09,Lipid,GC-MS
+M070,Metab_age_10,Organic acid,LC-MS positive
+M071,Metab_highvar_01,Sugar,LC-MS negative
+M072,Metab_highvar_02,Nucleotide,GC-MS
+M073,Metab_highvar_03,Amino acid,LC-MS positive
+M074,Metab_highvar_04,Acylcarnitine,LC-MS negative
+M075,Metab_highvar_05,Bile acid,GC-MS
+M076,Metabolite_076,Fatty acid,LC-MS positive
+M077,Metabolite_077,Lipid,LC-MS negative
+M078,Metabolite_078,Organic acid,GC-MS
+M079,Metabolite_079,Sugar,LC-MS positive
+M080,Metabolite_080,Nucleotide,LC-MS negative
+M081,Metabolite_081,Amino acid,GC-MS
+M082,Metabolite_082,Acylcarnitine,LC-MS positive
+M083,Metabolite_083,Bile acid,LC-MS negative
+M084,Metabolite_084,Fatty acid,GC-MS
+M085,Metabolite_085,Lipid,LC-MS positive
+M086,Metabolite_086,Organic acid,LC-MS negative
+M087,Metabolite_087,Sugar,GC-MS
+M088,Metabolite_088,Nucleotide,LC-MS positive
+M089,Metabolite_089,Amino acid,LC-MS negative
+M090,Metabolite_090,Acylcarnitine,GC-MS
+M091,Metabolite_091,Bile acid,LC-MS positive
+M092,Metabolite_092,Fatty acid,LC-MS negative
+M093,Metabolite_093,Lipid,GC-MS
+M094,Metabolite_094,Organic acid,LC-MS positive
+M095,Metabolite_095,Sugar,LC-MS negative
+M096,Metabolite_096,Nucleotide,GC-MS
+M097,Metabolite_097,Amino acid,LC-MS positive
+M098,Metabolite_098,Acylcarnitine,LC-MS negative
+M099,Metabolite_099,Bile acid,GC-MS
+M100,Metabolite_100,Fatty acid,LC-MS positive
+M101,Metabolite_101,Lipid,LC-MS negative
+M102,Metabolite_102,Organic acid,GC-MS
+M103,Metabolite_103,Sugar,LC-MS positive
+M104,Metabolite_104,Nucleotide,LC-MS negative
+M105,Metabolite_105,Amino acid,GC-MS
+M106,Metabolite_106,Acylcarnitine,LC-MS positive
+M107,Metabolite_107,Bile acid,LC-MS negative
+M108,Metabolite_108,Fatty acid,GC-MS
+M109,Metabolite_109,Lipid,LC-MS positive
+M110,Metabolite_110,Organic acid,LC-MS negative
+M111,Metabolite_111,Sugar,GC-MS
+M112,Metabolite_112,Nucleotide,LC-MS positive
+M113,Metabolite_113,Amino acid,LC-MS negative
+M114,Metabolite_114,Acylcarnitine,GC-MS
+M115,Metabolite_115,Bile acid,LC-MS positive
+M116,Metabolite_116,Fatty acid,LC-MS negative
+M117,Metabolite_117,Lipid,GC-MS
+M118,Metabolite_118,Organic acid,LC-MS positive
+M119,Metabolite_119,Sugar,LC-MS negative
+M120,Metabolite_120,Nucleotide,GC-MS
