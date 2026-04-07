@@ -22,7 +22,9 @@ Python ≥ 3.8
 Packages: scikit-learn, numpy, pandas, matplotlib, seaborn
 
 # Project Structure
-.
-├── data4.csv
-├── Protein Secondary Structure Prediction using the k-NN Algorithm.ipynb
-└── README.md
+
+| File | Description |
+|------|-------------|
+| `data4.csv` | Dataset (10,000 samples) |
+| `Protein Secondary Structure Prediction using the k-NN Algorithm.ipynb` | Main notebook |
+| `README.md` | Project documentation |
