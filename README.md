@@ -65,6 +65,7 @@ Make sure `data4.csv` is in the same directory as the notebook.
 
 | File | Description |
 |------|-------------|
+| `.gitattributes` | Python |
 | `data4.csv` | Dataset (10,000 samples) |
 | `Protein Secondary Structure Prediction using the k-NN Algorithm.ipynb` | Main notebook |
 | `README.md` | Project documentation |
