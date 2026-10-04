@@ -11,7 +11,7 @@ Packages: scikit-learn, numpy, pandas, matplotlib, seaborn
 # Dataset
 **Source:** [UCI Machine Learning Repository — Molecular Biology (Protein Secondary Structure)](https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Protein+Secondary+Structure))
 
-**File:** `data4.csv` — 10,000 samples, semicolon-separated
+**File:** `data4.csv` - 10,000 samples, semicolon-separated
 
 **Classes:** α-helix (`h`), β-sheet (`e`), coil (`_`)
 
